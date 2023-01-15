@@ -2,8 +2,7 @@
 
 ## What?
 
-This repo is related to the book Introduction to Algorithms by
-and it's purpose is to review algorithms in golang based on the excercises and theory from the book.
+This repo is related to the book Introduction to Algorithms written by (Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein) and it's purpose is to review algorithms in golang based on the excercises and theory from the book.
 
 ## Why?
 
